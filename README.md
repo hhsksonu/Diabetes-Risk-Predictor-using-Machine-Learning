@@ -1,4 +1,4 @@
-# Diabetes Risk Predictor using Machine Learning 🩺🤖
+# Diabetes Risk Predictor using Machine Learning 
 
 This project builds a machine learning pipeline to predict whether an individual is likely to have diabetes based on health-related attributes. It uses the well-known **PIMA Indians Diabetes Dataset** and compares multiple classification models.
 
@@ -39,6 +39,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 📁 Dataset Source
 Kaggle: PIMA Indians Diabetes Dataset
+```
 
 ## 🤝 Built By
 👨‍💻 **Sonu Kumar**  
